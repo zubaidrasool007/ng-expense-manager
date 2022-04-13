@@ -1,6 +1,13 @@
+## Expense-Manager-App
+This app is used to track a expense. In this set the budget and by a expesne 
+## Stack
+- Angular App
+- Angular Material Ui
+
 # ExpenseManagmentApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+
 
 ## Development server
 
