@@ -1,20 +1,29 @@
+<h2>Add Expens</h2>
 <p>
-
-    <mat-form-field appearance="legacy">
-        <mat-label>Expense</mat-label>
-        <input matInput placeholder="Expense" [(ngModel)]="data.expense">
-
-    </mat-form-field>
+  <mat-form-field appearance="legacy">
+    <mat-label>Expense</mat-label>
+    <input matInput placeholder="Expense" [(ngModel)]="data.expense" />
+  </mat-form-field>
 </p>
 <p>
-    <mat-form-field appearance="standard">
-        <mat-label>Amount</mat-label>
-        <input type="number" matInput placeholder="Amout" [(ngModel)]="data.amount">
-
-    </mat-form-field>
+  <mat-form-field appearance="standard">
+    <mat-label>Amount</mat-label>
+    <input
+      type="number"
+      matInput
+      placeholder="Amout"
+      [(ngModel)]="data.amount"
+    />
+  </mat-form-field>
 </p>
 <h1></h1>
 <p>
-    <button mat-flat-button color="primary" [mat-dialog-close]="data" cdkFocusInitial>Add Expense</button>
-
+  <button
+    mat-flat-button
+    color="primary"
+    [mat-dialog-close]="data"
+    cdkFocusInitial
+  >
+    Add Expense
+  </button>
 </p>

@@ -1,13 +1,33 @@
-## Expense-Manager-App
-This app is used to track a expense. In this set the budget and by a expesne 
-## Stack
+# Expense-Manager-App
+
+By using Angular and Angular Material UI created a expenst manager app. This app is used to track a expense. In this app first of all you can set the tolal budget. Then you can open the expens dialogue and add your expense. Then you can see your expense in expense table and also see the remaining and tolal amount. if your balence is zero then showing a message that your 'you have no enough balence' 
+
+# Stack
+
 - Angular App
-- Angular Material Ui
+- Angular Material UI
+
+# ExpenseManagmentApp PreView
+
+### Tolat budget
+
+![esxpensScreenE1](https://user-images.githubusercontent.com/63468411/171676576-aa6a886f-a174-4b56-9013-ebaa02ecdef4.png)
+
+### Expense Dialogue
+
+![expense2](https://user-images.githubusercontent.com/63468411/171676920-c1ee24a2-4c23-45ab-9819-b10e2be0cd25.png)
+
+### Expense Table
+
+![table](https://user-images.githubusercontent.com/63468411/171677295-0167cf81-7fec-42af-9359-56a83093ab3a.png)
+
+### Remaining Budget
+
+![expense4](https://user-images.githubusercontent.com/63468411/171677379-9743f676-60ec-4e96-8456-e7c75ff1138f.png)
 
 # ExpenseManagmentApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
-
 
 ## Development server
 

@@ -1,11 +1,8 @@
-
 .main {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 8px;
-  // height: 100vh;
- 
 }
 h1 {
   color: #3f51b5;
@@ -16,7 +13,6 @@ h1 {
   position: static;
   top: 0%;
 }
-
 table {
   border-collapse: collapse;
   width: 400px;
@@ -52,10 +48,8 @@ td:nth-child(3) {
   font-weight: 500;
   float: right;
   position: fixed;
-//   right:0%;
   bottom: 50px;
   background-color: #3f51b5;
-  
 }
 .totalbugdet {
   font-size: 18px;
@@ -67,8 +61,6 @@ td:nth-child(3) {
   font-weight: 500;
   padding: 10px;
   background-color: #3f51b5;
-  
-  
 }
 .inputbutton {
   margin-bottom: 10px;
@@ -86,4 +78,3 @@ tfoot {
   background-color: #3f51b5;
   color: #fff;
 }
-
